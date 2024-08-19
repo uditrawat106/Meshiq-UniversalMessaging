@@ -1,7 +1,7 @@
-# meshiq Universal Messaging Project
+# meshIQ Universal Messaging Project
 The project involves streaming metrics that are present in Integration Server and metrics that belong to Universal Messaging like channels, durables and queues.
 
-# Importing the meshiq Universal Messaging Project into the Intergration Server Console
+# Importing the meshIQ Universal Messaging Project into the Integration Server Console
 * Download the attachment MeshiqUMMetrics.zip.
 * Extract the data from the MeshiqUMMetrics.zip file
 * Place the extracted data into one of the following(whichever path exists on disk): IntegrationServer/instances/default/replicate/inbound or IntegrationServer/replicate/inbound
