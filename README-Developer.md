@@ -7,11 +7,11 @@ The project involves streaming metrics that are present in Integration Server an
 
 # Installation Guide
 * To create an application for webmethods for Software AG
-* Open Software AG Designer
-* Create a new package based upon the requirement
+     1. Open Software AG Designer
+     2. Create a new package based upon the requirement
 
 # Import current project into existing default package
-* Import the project into local SoftwareAG directory
+* Import the project into your local SoftwareAG directory
 * Import into SoftwareAg->Integration Server->Instances->default->packages
 
 # Tutorial for creating Java Service 
