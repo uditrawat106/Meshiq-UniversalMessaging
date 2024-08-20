@@ -13,3 +13,6 @@ The project involves streaming metrics that are present in Integration Server an
 # Import current project into existing default package
 * Import the project into local SoftwareAG directory
 * Import into SoftwareAg->Integration Server->Instances->default->packages
+
+# Tutorial for creating Java Service 
+* Video link : https://www.youtube.com/watch?v=BuGjoTBryrM
